@@ -13,283 +13,283 @@
     },
     {
       "name": "Chevrolet Camaro",
-      "poster": "https://example.com/camaro.jpg",
+      "poster": "https://hips.hearstapps.com/hmg-prod/images/2024-chevrolet-camaro-ss-collectors-edition-1-647e1933c6c20.jpg?crop=0.755xw:0.696xh;0.112xw,0.233xh&resize=1200:*",
       "rating": "8.8",
       "overview": "An iconic muscle car with a powerful performance."
     },
     {
       "name": "BMW M3",
-      "poster": "https://example.com/m3.jpg",
+      "poster": "https://carfans.fr/wp-content/uploads/2022/06/BMW-M3-E92-GTS_1-scaled.jpg.webp",
       "rating": "9.1",
       "overview": "A high-performance luxury sports sedan."
     },
     {
       "name": "Mercedes-Benz S-Class",
-      "poster": "https://example.com/sclass.jpg",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mercedes-Benz_W223_IMG_6663.jpg/640px-Mercedes-Benz_W223_IMG_6663.jpg",
       "rating": "9.3",
       "overview": "A flagship luxury vehicle known for its comfort and technology."
     },
     {
       "name": "Audi R8",
-      "poster": "https://example.com/r8.jpg",
+      "poster": "https://hips.hearstapps.com/hmg-prod/images/2023-audi-r8-gt-rear-three-quarters-motion-1664827983.jpg?crop=0.782xw:0.717xh;0.150xw,0.184xh&resize=980:*",
       "rating": "9.0",
       "overview": "A mid-engine supercar with stunning performance."
     },
     {
       "name": "Lamborghini Aventador",
-      "poster": "https://example.com/aventador.jpg",
+      "poster": "https://cap.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcap.2F2018.2F08.2F24.2F6ba52ee1-2aae-45ab-92e7-c58b4c1ded3d.2Ejpeg/1200x630/quality/80/lamborghini-aventador-svj-puissance-design-motorisation-prix-tout-savoir-sur-la-nouvelle-hypercar-italienne-1304086.jpg",
       "rating": "9.4",
       "overview": "An exotic supercar with aggressive styling and a powerful V12 engine."
     },
     {
       "name": "Ferrari 458 Italia",
-      "poster": "https://example.com/458.jpg",
+      "poster": "https://www.funcars.biz/wp-content/uploads/2023/07/1684959544-ferrari-458-002.jpg",
       "rating": "9.2",
       "overview": "A mid-engine Italian sports car known for its precision and speed."
     },
     {
       "name": "Tesla Model S",
-      "poster": "https://example.com/models.jpg",
+      "poster": "https://www.tesla.com/sites/default/files/modelsx-new/social/model-s-hero-social.jpg",
       "rating": "9.0",
       "overview": "An electric luxury sedan with impressive range and performance."
     },
     {
       "name": "Jaguar E-Type",
-      "poster": "https://example.com/etype.jpg",
+      "poster": "https://images.bauerhosting.com/legacy/media/602f/ec3d/e176/d016/5520/8fcc/Jaguar%20E-type%20S1%20roadster.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80",
       "rating": "9.5",
       "overview": "A classic British sports car that is considered an automotive icon."
     },
     {
       "name": "Toyota Supra",
-      "poster": "https://example.com/supra.jpg",
+      "poster": "https://www.motortrend.com/uploads/2023/06/004-Guide-to-Toyota-2JZ-GTE-engine-Supra-burnout.jpg?fit=around%7C875:492.1875",
       "rating": "8.9",
       "overview": "A legendary Japanese sports car with a cult following."
     },
     {
       "name": "Nissan GT-R",
-      "poster": "https://example.com/gtr.jpg",
+      "poster": "https://cdn.vroom.be/media/public/articles/ADVICE/gallery/25274/Nissan_Skyline_GT-R_R34_Paul_Walker_01.jpg",
       "rating": "9.1",
       "overview": "A high-performance sports car known for its speed and handling."
     },
     {
       "name": "Chevrolet Corvette",
-      "poster": "https://example.com/corvette.jpg",
+      "poster": "https://cdn.motor1.com/images/mgl/P3onNL/s1/2023-chevrolet-corvette-z06.jpg",
       "rating": "9.0",
       "overview": "An American sports car with a rich history and powerful performance."
     },
     {
       "name": "McLaren F1",
-      "poster": "https://example.com/f1.jpg",
+      "poster": "https://mclaren.scene7.com/is/image/mclaren/McLaren-F1-1200x1200:crop-4x3?wid=1920&hei=1440",
       "rating": "9.6",
       "overview": "A legendary supercar that held the title of fastest production car for over a decade."
     },
     {
       "name": "Volkswagen Golf GTI",
-      "poster": "https://example.com/golf.jpg",
+      "poster": "https://images.iconfigurators.app/images/gallery/DSC00232.jpg",
       "rating": "8.7",
       "overview": "A popular hot hatch known for its combination of performance and practicality."
     },
     {
       "name": "Subaru WRX STI",
-      "poster": "https://example.com/wrx.jpg",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Subaru_Impreza_WRX_STI_-_Blue_%28cropped%29.jpg/1200px-Subaru_Impreza_WRX_STI_-_Blue_%28cropped%29.jpg",
       "rating": "8.8",
       "overview": "A high-performance rally car for the road with all-wheel drive."
     },
     {
       "name": "Mazda MX-5 Miata",
-      "poster": "https://example.com/miata.jpg",
+      "poster": "https://images.fitmentindustries.com/web-compressed/1701685-1-1990-mx-5-miata-mazda-base-stance-coilovers-work-equip-40-gunmetal.jpg",
       "rating": "8.6",
       "overview": "A lightweight and fun-to-drive roadster that has become a modern classic."
     },
     {
       "name": "Ford GT",
-      "poster": "https://example.com/gt.jpg",
+      "poster": "https://www.google.com/search?q=ford+gt&tbm=isch&ved=2ahUKEwihqsD8iN2DAxXx_rsIHQ68BqsQ2-cCegQIABAA&oq=ford+gt&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6BggAEAcQHjoKCAAQgAQQigUQQ1CeFFirH2C7IGgAcAB4AIABZogB4gSSAQM3LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=CO2jZaGGA_H97_UPjvia2Ao&bih=654&biw=1318#imgrc=bUIv2hrJio3T3M",
       "rating": "9.3",
       "overview": "A supercar inspired by the iconic Ford GT40, built for speed and performance."
     },
     {
       "name": "Aston Martin DB5",
-      "poster": "https://example.com/db5.jpg",
+      "poster": "https://cdn.motor1.com/images/mgl/8AAkVM/s3/sean-connery-s-aston-martin-db5.jpg",
       "rating": "9.2",
       "overview": "A classic British grand tourer famously associated with the James Bond franchise."
     },
     {
       "name": "Honda NSX",
-      "poster": "https://example.com/nsx.jpg",
+      "poster": "https://www.motortrend.com/uploads/2022/07/jdm-nsx-advan-wheels.jpg",
       "rating": "8.9",
       "overview": "A mid-engine sports car that combines Japanese reliability with exhilarating performance."
     },
     {
       "name": "Rolls-Royce Phantom",
-      "poster": "https://example.com/phantom.jpg",
+      "poster": "https://www.topgear.com/sites/default/files/cars-car/image/2017/10/_jl58227.jpg?w=1280&h=720",
       "rating": "9.4",
       "overview": "An ultra-luxurious vehicle that represents the pinnacle of automotive opulence."
     },
     {
       "name": "Bugatti Veyron",
-      "poster": "https://example.com/veyron.jpg",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg",
       "rating": "9.5",
       "overview": "A groundbreaking hypercar that redefined the limits of speed and engineering."
     },
     {
       "name": "Koenigsegg Agera RS",
-      "poster": "https://example.com/agera.jpg",
+      "poster": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1562245742/autoexpress/2018/01/5_agera_rs.jpg",
       "rating": "9.6",
       "overview": "A Swedish supercar known for its record-breaking performance and cutting-edge technology."
     },
     {
       "name": "Lamborghini Huracan",
-      "poster": "https://example.com/huracan.jpg",
+      "poster": "https://static.moniteurautomobile.be/imgcontrol/images_tmp/clients/moniteur/c1440-d720/content/medias/images/news/36000/0/40/huracan_sto.jpg",
       "rating": "9.1",
       "overview": "A high-performance sports car that combines Italian craftsmanship with thrilling performance."
     },
     {
       "name": "Ferrari LaFerrari",
-      "poster": "https://example.com/laferrari.jpg",
+      "poster": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/15q2/657948/ferrari-laferrari-hypercar-tested-review-car-and-driver-photo-658116-s-original.jpg?crop=0.985xw:0.986xh;0,0&resize=640:*",
       "rating": "9.3",
       "overview": "A limited-edition hybrid hypercar that represents the pinnacle of Ferrari's engineering."
     },
     {
       "name": "Porsche 918 Spyder",
-      "poster": "https://example.com/918.jpg",
+      "poster": "https://cdn.motor1.com/images/mgl/lw76O/s3/2015-porsche-918-spyder.jpg",
       "rating": "9.2",
       "overview": "A plug-in hybrid supercar that showcases Porsche's technological prowess."
     },
     {
       "name": "Mercedes-AMG GT",
-      "poster": "https://example.com/amggt.jpg",
+      "poster": "https://carfans.fr/wp-content/uploads/2023/04/AMG_GT_BlackSeries_11.jpg.webp",
       "rating": "9.0",
       "overview": "A high-performance sports car that combines German engineering with luxurious comfort."
     },
     {
       "name": "Bentley Continental GT",
-      "poster": "https://example.com/continental.jpg",
+      "poster": "https://hips.hearstapps.com/hmg-prod/images/2023-bentley-continental-gt-s-coupe-101-1654526518.jpg?crop=0.733xw:0.550xh;0.0798xw,0.284xh&resize=1200:*",
       "rating": "9.1",
       "overview": "A grand tourer that offers a perfect balance of luxury, performance, and craftsmanship."
     },
     {
       "name": "Lexus LFA",
-      "poster": "https://example.com/lfa.jpg",
+      "poster": "https://media.evo.co.uk/image/private/s--5KdT-h56--/v1607015894/evo/2020/12/Lexus%20LFA%20icon%20Dec%202020-8.jpg",
       "rating": "9.0",
       "overview": "A limited-production supercar that showcases Lexus' pursuit of perfection."
     },
     {
       "name": "Audi RS6 Avant",
-      "poster": "https://example.com/rs6.jpg",
+      "poster": "https://www.abt-sportsline.com/fileadmin/user_upload/ABT-Tuning_Audi-RS6_HR22_oben_Industrie.jpg",
       "rating": "8.8",
       "overview": "A high-performance wagon that combines practicality with exhilarating performance."
     },
     {
       "name": "Chevrolet Impala",
-      "poster": "https://example.com/impala.jpg",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1967_Chevrolet_Impala_4_door_Hardtop.jpg/1280px-1967_Chevrolet_Impala_4_door_Hardtop.jpg",
       "rating": "8.7",
       "overview": "A classic American full-size car with a rich history and iconic design."
     },
     {
       "name": "Ford F-150",
-      "poster": "https://example.com/f150.jpg",
+      "poster": "https://www.turbo.fr/sites/default/files/styles/card_315x225/public/2023-04/Hennessey%20Raptor-R%20VelociRaptoR-6x6%20%282%29.jpg?itok=d9-wnA2T",
       "rating": "9.0",
       "overview": "A best-selling pickup truck known for its toughness and versatility."
     },
     {
       "name": "Jeep Wrangler",
-      "poster": "https://example.com/wrangler.jpg",
+      "poster": "https://assets.autoweek.nl/m/nlwyq1abd0bh_800.jpg",
       "rating": "8.9",
       "overview": "An iconic off-road vehicle that has remained true to its roots for decades."
     },
     {
       "name": "Land Rover Range Rover",
-      "poster": "https://example.com/rangerover.jpg",
+      "poster": "https://cdnwp.dealerk.com/b099d186/uploads/sites/82/2023/11/new-range-rover-sport-static-front-side-view.jpg",
       "rating": "9.1",
       "overview": "A luxury SUV that offers a blend of refinement, capability, and off-road prowess."
     },
     {
       "name": "Toyota Land Cruiser",
-      "poster": "https://example.com/landcruiser.jpg",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2021_Toyota_Land_Cruiser_300_3.4_ZX_%28Colombia%29_front_view_04.png/1200px-2021_Toyota_Land_Cruiser_300_3.4_ZX_%28Colombia%29_front_view_04.png",
       "rating": "9.0",
       "overview": "A rugged and reliable SUV that is built to conquer any terrain."
     },
     {
       "name": "Nissan Skyline GT-R",
-      "poster": "https://example.com/skyline.jpg",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nissan_GTR_Nismo_01.jpg/1200px-Nissan_GTR_Nismo_01.jpg",
       "rating": "8.8",
       "overview": "A legendary Japanese sports car that has gained a cult following worldwide."
     },
     {
       "name": "Mitsubishi Lancer Evolution",
-      "poster": "https://example.com/evo.jpg",
+      "poster": "https://i.pinimg.com/originals/d4/aa/3a/d4aa3a10f7bc7eb3e8711f046aeffdfa.jpg",
       "rating": "8.9",
       "overview": "A high-performance sedan known for its rally-bred heritage and impressive performance."
     },
     {
       "name": "Subaru Impreza WRX",
-      "poster": "https://example.com/wrx.jpg",
+      "poster": "https://www.stawelltimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/2ba493f7-c8fa-4454-ad1c-8e1e897df67c.jpg/r0_0_2048_1365_w2048_h1365_fmax.jpg",
       "rating": "8.7",
       "overview": "A turbocharged compact car that offers thrilling performance and all-weather capability."
     },
     {
       "name": "Volkswagen Beetle",
-      "poster": "https://example.com/beetle.jpg",
+      "poster": "https://www.stancenation.com/wp-content/uploads/2013/09/IMG_9693-2-copy-1500x1000.jpg",
       "rating": "8.6",
       "overview": "An iconic compact car that has become a symbol of automotive history."
     },
     {
       "name": "Mini Cooper",
-      "poster": "https://example.com/mini.jpg",
+      "poster": "https://live.staticflickr.com/8305/7780567088_bc7dca9c4e_b.jpg",
       "rating": "8.5",
       "overview": "A stylish and fun-to-drive small car that has a cult following."
     },
     {
       "name": "Fiat 500",
-      "poster": "https://example.com/500.jpg",
+      "poster": "https://cdn.automobile-propre.com/uploads/2022/03/Abarth_695_Esseesse.jpg",
       "rating": "8.4",
       "overview": "A compact car that is known for its retro-inspired design and European charm."
     },
     {
       "name": "Renault Clio",
-      "poster": "https://example.com/clio.jpg",
+      "poster": "https://i.pinimg.com/736x/6f/58/3a/6f583a3348751dc8fc3a72424ccdbe16.jpg",
       "rating": "8.3",
       "overview": "A popular European hatchback that offers a perfect balance of style and practicality."
     },
     {
       "name": "Peugeot 208",
-      "poster": "https://example.com/208.jpg",
+      "poster": "https://i.ytimg.com/vi/oqWg6sqr4J4/maxresdefault.jpg",
       "rating": "8.2",
       "overview": "A stylish and efficient small car that is popular in the European market."
     },
     {
       "name": "Citroen DS",
-      "poster": "https://example.com/ds.jpg",
+      "poster": "https://www.autocar.co.uk/sites/autocar.co.uk/files/9121010127391741600x1060_0.jpg",
       "rating": "8.1",
       "overview": "A range of premium compact cars known for their avant-garde design and comfort."
     },
     {
       "name": "Alfa Romeo Giulia",
-      "poster": "https://example.com/giulia.jpg",
+      "poster": "https://images.squarespace-cdn.com/content/v1/53ab12dae4b04de112eb3b75/1521780085217-Q705SGMUH8MF8ASQ029V/KW-alfa-romoe-giulia-lowering-kit-stance.jpg?format=2500w",
       "rating": "8.9",
       "overview": "An Italian luxury sedan that combines performance, style, and sophistication."
     },
     {
       "name": "Volvo XC90",
-      "poster": "https://example.com/xc90.jpg",
+      "poster": "https://cdn.motor1.com/images/mgl/re8Nr/s1/2021-volvo-xc90-recharge-t8-front-quarter-wide.webp",
       "rating": "9.1",
       "overview": "A premium SUV that offers Scandinavian design and advanced safety features."
     },
     {
       "name": "Maserati GranTurismo",
-      "poster": "https://example.com/granturismo.jpg",
+      "poster": "https://cdn.motor1.com/images/mgl/qkZeMR/s1/maserati-granturismo-primaserie-75th-anniversary-launch-edition.webp",
       "rating": "9.0",
       "overview": "A grand tourer that embodies the essence of Italian luxury and performance."
     },
     {
       "name": "Jaguar XJ",
-      "poster": "https://example.com/xj.jpg",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Jaguar_XJ_vs._Jetman_-_World-First_Desert_Drag_Race_%2822928441043%29_%28cropped%29.jpg",
       "rating": "9.2",
       "overview": "A flagship luxury sedan that combines British elegance with dynamic performance."
     },
     {
       "name": "Cadillac Escalade",
-      "poster": "https://example.com/escalade.jpg",
+      "poster": "https://static.moniteurautomobile.be/imgcontrol/images_tmp/clients/moniteur/c680-d465/content/medias/images/news/39000/800/60/cadillac-escalade-v-4.jpg",
       "rating": "8.8",
       "overview": "A full-size luxury SUV that offers a spacious and opulent driving experience."
     }
